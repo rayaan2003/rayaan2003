@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="190" height="48" viewBox="0 0 190 48">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0a66c2"/><stop offset="1" stop-color="#2563eb"/></linearGradient></defs>
+<style>@keyframes s{0%{transform:translateX(-190px)}60%,100%{transform:translateX(190px)}} .sh{animation:s 4s ease-in-out infinite}</style>
+<clipPath id="k"><rect width="190" height="48" rx="24"/></clipPath>
+<g clip-path="url(#k)"><rect width="190" height="48" fill="url(#g)"/><rect class="sh" width="60" height="48" fill="#fff" opacity="0.18" transform="skewX(-20)"/></g>
+<rect x="22" y="14" width="22" height="22" rx="5" fill="#fff"/><text x="33" y="31" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="800" fill="#0a66c2">in</text>
+<text x="62" y="30" font-family="Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">LinkedIn</text></svg>
