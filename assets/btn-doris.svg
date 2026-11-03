@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="48" viewBox="0 0 200 48">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#6d28d9"/><stop offset="1" stop-color="#c026d3"/></linearGradient></defs>
+<style>@keyframes s{0%{transform:translateX(-200px)}60%,100%{transform:translateX(200px)}} .sh{animation:s 4s ease-in-out infinite}</style>
+<clipPath id="k"><rect width="200" height="48" rx="24"/></clipPath>
+<g clip-path="url(#k)"><rect width="200" height="48" fill="url(#g)"/><rect class="sh" width="60" height="48" fill="#fff" opacity="0.18" transform="skewX(-20)"/></g>
+<circle cx="33" cy="25" r="11" fill="#fff"/><circle cx="33" cy="25" r="5" fill="#6d28d9"/>
+<text x="62" y="30" font-family="Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#ffffff">Doris Labs</text></svg>
