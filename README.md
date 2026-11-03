@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/rayaan-sheikh-2329ab214"><img src="assets/btn-linkedin.svg" height="44" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://github.com/Doris-Labs"><img src="assets/btn-doris.svg" height="44" alt="Doris Labs" /></a>
+<a href="https://www.linkedin.com/in/rayaan-sheikh-2329ab214"><img src="assets/icon-linkedin.svg" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://x.com/rayaan_771"><img src="assets/icon-x.svg" height="48" alt="X" /></a>&nbsp;&nbsp;<a href="mailto:rayaansheikh442@gmail.com"><img src="assets/icon-email.svg" height="48" alt="Email" /></a>
 
 </div>
 
@@ -73,12 +73,10 @@ Papers and reports I've published.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rayaan2003&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayaan2003&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29" />
-
-<img src="https://streak-stats.demolab.com?user=rayaan2003&theme=tokyonight&hide_border=true&background=0f0c29" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rayaan2003&theme=tokyo-night&hide_border=true&bg_color=0f0c29&area=true" width="100%" />
+<img src="profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub stats" />
+<img src="profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Top languages by repo" />
+<img src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Top languages by commit" />
+<img src="profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive time" />
 
 </div>
 
