@@ -15,7 +15,8 @@
 I build AI systems that act in the real world, and the guardrails that keep them honest. Currently shipping at **Doris Labs**. I have a research background in hybrid SSM-attention architectures.
 
 - 🛡️ Made **[Bastion](https://github.com/rayaan2003/bastion)**: runtime policy enforcement for AI agent tool calls
-- 🔬 Studied hybrid SSM-attention networks for my dissertation
+- 🎓 Hold a Master's in AI, with a dissertation on hybrid SSM-attention networks
+- ⚡ Engineering degree in Electronic Systems
 - 📍 Based in London
 
 ---
